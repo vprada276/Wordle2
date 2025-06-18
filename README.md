@@ -1,4 +1,4 @@
-# Project 2 - *Name of App Here*
+# Project 2 - *Wordle*
 
 Submitted by: Victor Prada
 Wordle is an app that is game that consists in guessing a randomly generated word. It can be adjusted regarding number of letter, guesses, topic, and alien mode.
